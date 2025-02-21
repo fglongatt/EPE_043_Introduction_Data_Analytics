@@ -59,7 +59,11 @@ Physicists and mathematicians like Enrico Fermi, Stanisław Ulam, John von Neuma
 Monte Carlo simulations were used to model and predict the behaviour of neutrons within a nuclear chain reaction, allowing scientists to better understand and design atomic bombs by simulating the complex, probabilistic nature of nuclear fission, especially when dealing with uncertainties in variables like neutron scattering and critical mass, which were difficult to test directly in real-world experiments; essentially providing a way to analyse a wide range of possible outcomes based on random sampling. These methods allowed the scientists to cover the multidimensionality of the problem without the limits of numerical methods. With the help of early computers like ENIAC and MANIAC, the team used Monte Carlo methods to obtain more accurate predictions.
 
 
-## Chapter 9:
+## Chapter 9: Artificial Neural Networks
+_Artificial Intelligence_ (AI) is the simulation of human intelligence in machines that are programmed to think and learn like humans. AI encompasses many technologies and methods that enable machines to perform tasks that typically require human intelligence. 
+_Artificial neural networks_ (ANNs) are a group of algorithms inspired by the human brain’s layout. 
+The brain is a network of neurons, and each neuron is an information messenger which activates in response to a certain stimulus. Neural networks are then a computational version of this, and in recent times, neural networks have become one of the most important areas of machine learning. In this section and this course, some aspects of neural networks are briefly introduced, though it will barely scratch the surface of this fast-evolving field.
+
 
 
 
