@@ -1,5 +1,7 @@
 # Chapter 5: Bayes' Theorem
-Baye’s theorem, named after 18th-century British mathematician Thomas Bayes (1701-1761), is a mathematical formula for determining conditional probability. Bayes’s theorem is very important in statistical inference and describes the probability of an event based on prior knowledge related to that event or measurement. Baye’s theorem that the probability of an event occurring, given that another event has already occurred, is equal to a formula that includes conditional probabilities.
+Baye’s theorem, named after 18th-century British mathematician Thomas Bayes (1701-1761), is a mathematical formula for determining conditional probability. Bayes’s theorem is very important in statistical inference and describes the probability of an event based on prior knowledge related to that event or measurement. Baye’s theorem states that the probability of an event occurring, given that another event has already occurred, is equal to a formula that includes conditional probabilities.
+
+## This section shows some numerical tutorials created to introduce the concept of Bayes' Theorem in Data Science.
 
 ## English Audio
 ### 004
