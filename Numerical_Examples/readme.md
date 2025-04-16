@@ -17,6 +17,15 @@
 
 ## Spanish
 
+### Neurona con tres entradas y Function Sigmoide Data Analytics for Smart Energy Systems
+
+[![YouTube](http://i.ytimg.com/vi/4qUv-GOeDAg/hqdefault.jpg)](https://www.youtube.com/watch?v=4qUv-GOeDAg)
+
 ### Distribucion de Probabilidad Binomial 003 Ciencias de Datos
 
 [![YouTube](http://i.ytimg.com/vi/Mf3qyXkgd8k/hqdefault.jpg)](https://www.youtube.com/watch?v=Mf3qyXkgd8k)
+
+
+### #Teorema de #Bayes 004 Fundamentos de #CienciadeDatos
+
+[![YouTube](http://i.ytimg.com/vi/YMxDbqMzGsI/hqdefault.jpg)](https://www.youtube.com/watch?v=YMxDbqMzGsI)
