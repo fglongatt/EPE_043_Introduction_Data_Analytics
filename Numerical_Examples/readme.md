@@ -15,6 +15,10 @@
 
 [![YouTube](http://i.ytimg.com/vi/odQpZasrGyY/hqdefault.jpg)](https://www.youtube.com/watch?v=odQpZasrGyY)
 
+## Hypothesis Testing 004 Data Analytics for Smart Energy Systems
+
+[![YouTube](http://i.ytimg.com/vi/Tzpb4QTZiWU/hqdefault.jpg)](https://www.youtube.com/watch?v=Tzpb4QTZiWU)
+
 ## Spanish
 
 ### Neurona con tres entradas y Function Sigmoide Data Analytics for Smart Energy Systems
