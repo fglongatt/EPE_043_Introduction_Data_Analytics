@@ -2,6 +2,7 @@
 
 ## English
 
+Three Input #Neuron with #Sigmoid 004 #DataAnalitycs for #Smart #Energy #Systems
 
 [![YouTube](http://i.ytimg.com/vi/ck2x8hFEoHY/hqdefault.jpg)](https://www.youtube.com/watch?v=ck2x8hFEoHY)
 
