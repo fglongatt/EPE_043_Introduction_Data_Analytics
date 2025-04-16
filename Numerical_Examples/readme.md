@@ -18,7 +18,7 @@
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-## Hypothesis Testing 004 Data Analytics for Smart Energy Systems
+### Hypothesis Testing 004 Data Analytics for Smart Energy Systems
 
 [![YouTube](http://i.ytimg.com/vi/Tzpb4QTZiWU/hqdefault.jpg)](https://www.youtube.com/watch?v=Tzpb4QTZiWU)
 
@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 [![YouTube](http://i.ytimg.com/vi/IN8gKsfj4sc/hqdefault.jpg)](https://www.youtube.com/watch?v=IN8gKsfj4sc)
 
-## *Seccion 2: Audio en Espanol*
+### *Seccion 2: Audio en Espanol*
 
 ### Distribucion de Probabilidad Binomial 003 Ciencias de Datos
 
