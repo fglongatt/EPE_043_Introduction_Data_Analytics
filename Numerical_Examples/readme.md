@@ -17,5 +17,6 @@ Source:
 
 ## Spanish
 
+### Distribucion de Probabilidad Binomial 003 Ciencias de Datos
 
 [![YouTube](http://i.ytimg.com/vi/Mf3qyXkgd8k/hqdefault.jpg)](https://www.youtube.com/watch?v=Mf3qyXkgd8k)
