@@ -11,9 +11,9 @@
 
 [![YouTube](http://i.ytimg.com/vi/Mcd1QSkSQN8/hqdefault.jpg)](https://www.youtube.com/watch?v=Mcd1QSkSQN8)
 
+### Bayes #Theorem 004 #Fundamentals of #DataScience
 
-
-Source: 
+[![YouTube](http://i.ytimg.com/vi/odQpZasrGyY/hqdefault.jpg)](https://www.youtube.com/watch?v=odQpZasrGyY)
 
 ## Spanish
 
