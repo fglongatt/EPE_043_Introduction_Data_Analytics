@@ -1,6 +1,6 @@
 # Numerical Examples
 
-## English
+## *SECTION 1: English Audio*
 
 ### Binomial Distribution 004 Fundamentals of Data Science
 
@@ -18,7 +18,6 @@
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 ## Hypothesis Testing 004 Data Analytics for Smart Energy Systems
 
 [![YouTube](http://i.ytimg.com/vi/Tzpb4QTZiWU/hqdefault.jpg)](https://www.youtube.com/watch?v=Tzpb4QTZiWU)
@@ -31,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 [![YouTube](http://i.ytimg.com/vi/IN8gKsfj4sc/hqdefault.jpg)](https://www.youtube.com/watch?v=IN8gKsfj4sc)
 
-## Spanish
+## *Seccion 2: Audio en Espanol*
 
 ### Distribucion de Probabilidad Binomial 003 Ciencias de Datos
 
@@ -57,6 +56,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-## Independencia de Energia y Razon de Auto Consumo 004 Data Analytic for Smart Enerry Systems
+### Independencia de Energia y Razon de Auto Consumo 004 Data Analytic for Smart Enerry Systems
 
 [![YouTube](http://i.ytimg.com/vi/7pc4UAM1-yw/hqdefault.jpg)](https://www.youtube.com/watch?v=7pc4UAM1-yw)
