@@ -16,7 +16,7 @@
 
 ### Descriptive statistics
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+[XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX](https://youtu.be/WdwMGTacqns)
 
 ### Hypothesis Testing 004 Data Analytics for Smart Energy Systems
 
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ### Energy Modelling
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX (https://youtu.be/IN8gKsfj4sc)
 
 ### Energy Independence and Self-Consumption Ratio 004 Data Analytics for Smart Energy Systems
 
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ### Estadistica Descriptiva
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
 ### Pueba de Hipotesis 004 Data Analytics for Smart Grids
 
@@ -54,7 +54,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ### Modelado de la Energia
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX (https://youtu.be/7pc4UAM1-yw)
 
 ### Independencia de Energia y Razon de Auto Consumo 004 Data Analytic for Smart Enerry Systems
 
