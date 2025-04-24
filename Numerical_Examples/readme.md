@@ -16,7 +16,7 @@
 
 ### Descriptive statistics
 
-[XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX](https://youtu.be/WdwMGTacqns)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX (https://youtu.be/WdwMGTacqns)
 
 ### Hypothesis Testing 004 Data Analytics for Smart Energy Systems
 
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX (https://youtu.be/IN8gKsfj4sc)
 
 ### Estadistica Descriptiva
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX (https://youtu.be/9cSWt9HnMBY)
 
 ### Pueba de Hipotesis 004 Data Analytics for Smart Grids
 
